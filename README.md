@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://tenor.com/view/mf-doom-gif-17327600262098122551"  />
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/8HgAogBS9zcAAAAC/mf-doom.gif"  />
 </div>
 
 ###
