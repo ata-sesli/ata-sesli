@@ -4,8 +4,8 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/8HgAogBS9zcAAAAC/mf-doom.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="200">
 </div>
 
 ###
