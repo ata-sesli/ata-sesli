@@ -10,53 +10,9 @@
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="140" alt="rust logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=go" height="140" alt="go logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="140" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=zig" height="140" alt="zig logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="140" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="140" alt="sqlite logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="140" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="140" alt="svelte logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="140" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="140" alt="flutter logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="140" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="140" alt="fastapi logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="140" alt="nestjs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="140" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="140" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="140" alt="tauri logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="140" alt="vercel logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="140" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="140" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=angular" height="140" alt="angularjs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="140" alt="googlecloud logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="140" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=workers" height="140" alt="workers logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,zig,linux,sqlite,cpp,svelte,firebase,flutter,postgres,fastapi,nestjs,py,pytorch,tauri,vercel,docker,git,angular,gcp,nextjs,workers&perline=6" />
+</p>
 
 ###
 
