@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="200">
+  <img width="374" height="374" alt="mf-doom (1)" src="https://github.com/user-attachments/assets/b39b0b8a-36c1-4ae5-a0b8-c08899e71e82" />
 </div>
 
 ###
