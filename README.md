@@ -77,8 +77,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ata-sesli/ata-sesli/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
