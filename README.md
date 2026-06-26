@@ -11,20 +11,12 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,zig,linux,sqlite" />
+  <img
+    src="https://skillicons.dev/icons?i=rust,go,ts,zig,linux,sqlite,cpp,svelte,firebase,flutter,postgres,fastapi,nestjs,py,pytorch,tauri,vercel,docker,git,angular,gcp,nextjs,workers&perline=6"
+    width="1000"
+  />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,svelte,firebase,flutter,postgres,fastapi" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,py,pytorch,tauri,vercel,docker" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,angular,gcp,nextjs,workers" />
-</p>
 ###
 
 <div data-importer="activities" align="center" style="width: 100%">
