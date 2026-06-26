@@ -13,7 +13,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=rust,go,ts,zig,linux,sqlite,cpp,svelte,firebase,flutter,postgres,fastapi,nestjs,py,pytorch,tauri,vercel,docker,git,angular,gcp,nextjs,workers&perline=6"
-    width="1000"
+    width="480"
   />
 </p>
 
