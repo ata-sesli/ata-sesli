@@ -50,15 +50,6 @@
 
 ###
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=rust,zig,go,ts,cpp,py,linux,sqlite,postgres,firebase,svelte,flutter,nextjs,angular,fastapi,nestjs,tauri,docker,git,gcp,workers,vercel,pytorch&perline=6"
-    width="960"
-  />
-</p>
-
-###
-
 <div data-importer="activities" align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atasesli05/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@atasesli05/0" alt="Medium post 1"  />
