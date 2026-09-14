@@ -25,16 +25,18 @@
 
 ## Projects
 
-| Project | What it is |
-| --- | --- |
-| **[RChat](https://github.com/ata-sesli/rchat)** | Peer-to-peer chat built around direct communication, privacy, and real-time media. |
-| **[RVault](https://github.com/ata-sesli/rvault)** | Encrypted password manager with a Rust CLI/TUI and memory-resident vault daemon. |
-| **[Kiro](https://github.com/ata-sesli/kiro-lang)** | Programming language with an interpreter, Rust transpiler, immutable-by-default semantics, pipes, modules, and pure functions. |
-| **TOPS** | Terminal operations assistant for working with systems from where I already spend most of my time: the terminal. |
-| **[Black Dome](https://github.com/ata-sesli/black-dome)** | Linux security control plane with a rule-driven daemon and terminal interface. |
-| **[Newsprint](https://github.com/ata-sesli/newsprint)** | Native macOS feed reader for keeping up with blogs, newsletters, podcasts, YouTube, Hacker News, and RSS. |
-| **Octa** | Experimental AArch64 kernel written in Zig. |
-| **[MiniObserver](https://github.com/ata-sesli/mini-observer)** | Wi-Fi CSI experimentation and observation tooling. |
+| Project                                                        | What it is                                                                                                                     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **[RChat](https://github.com/ata-sesli/rchat)**                | Peer-to-peer chat built around direct communication, privacy, and real-time media.                                             |
+| **[RVault](https://github.com/ata-sesli/rvault)**              | Encrypted password manager with a Rust CLI/TUI and memory-resident vault daemon.                                               |
+| **[Kiro](https://github.com/ata-sesli/kiro-lang)**             | Programming language with an interpreter, Rust transpiler, immutable-by-default semantics, pipes, modules, and pure functions. |
+| **TOPS**                                                       | Terminal operations assistant for working with systems from where I already spend most of my time: the terminal.               |
+| **[Black Dome](https://github.com/ata-sesli/black-dome)**      | Linux security control plane with a rule-driven daemon and terminal interface.                                                 |
+| **[Newsprint](https://github.com/ata-sesli/newsprint)**        | Native macOS feed reader for keeping up with blogs, newsletters, podcasts, YouTube, Hacker News, and RSS.                      |
+| **Octa**                                                       | Experimental AArch64 kernel written in Zig.                                                                                    |
+| **[MiniObserver](https://github.com/ata-sesli/mini-observer)** | Wi-Fi CSI experimentation and observation tooling.                                                                             |
+| **[Zova](https://github.com/ata-sesli/zova)**                  | Embedded storage engine combining structured SQL data with graph relationships and local-first application workflows.          |
+| **[Motive](https://github.com/ata-sesli/motive)**              | Audio-to-MIDI tooling for extracting melody, notes, harmony, and musical structure from audio.                                 |
 
 ## Building in Octacity
 
@@ -42,11 +44,14 @@
 
 [Octacity](https://github.com/0ctacity) is an open-source engineering community organized around independent teams building real projects together. If you want to join, you can **[apply here](https://github.com/0ctacity/membership)**.
 
-| Project | What it is |
-| --- | --- |
-| **[fcage](https://github.com/0ctacity/fcage)** | Cross-platform process sandbox for controlling filesystem, execution, and network access without requiring a full VM. |
-| **[Badbox](https://github.com/0ctacity/badbox)** | Static bad-pattern detector for codebases, designed to catch structurally valid but undesirable patterns. |
-| **[codebase-memory-mcp](https://github.com/0ctacity/codebase-memory-mcp)** | Octacity-maintained fork of Codebase Memory MCP for persistent structural memory across software projects. |
+| Project                                                                    | What it is                                                                                                            |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **[fcage](https://github.com/0ctacity/fcage)**                             | Cross-platform process sandbox for controlling filesystem, execution, and network access without requiring a full VM. |
+| **[Badbox](https://github.com/0ctacity/badbox)**                           | Static bad-pattern detector for codebases, designed to catch structurally valid but undesirable patterns.             |
+| **[codebase-memory-mcp](https://github.com/0ctacity/codebase-memory-mcp)** | Octacity-maintained fork of Codebase Memory MCP for persistent structural memory across software projects.            |
+| **[OmniShip](https://github.com/0ctacity/omniship)**                       | Language-agnostic release tool built around composable Check, Build, and Ship stages.                                 |
+| **[ash](https://github.com/0ctacity/ash)**                                 | Agentic shell for letting coding agents operate on remote machines securely over SSH.                                 |
+| **[Elephant](https://github.com/0ctacity/elephant)**                       | Local, agent-agnostic project memory for carrying facts, decisions, tasks, and context across coding agents.          |
 
 ###
 
