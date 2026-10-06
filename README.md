@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  I also run <strong><a href="https://github.com/0ctacity">Octacity</a></strong>, an open-source engineering community
+  I also run <strong><a href="https://github.com/octacity-org">Octacity</a></strong>, an open-source engineering community
   built around independent teams, shared knowledge, and real projects.
 </p>
 
@@ -42,16 +42,16 @@
 
 **Eight teams. Shared knowledge. Open-source projects.**
 
-[Octacity](https://github.com/0ctacity) is an open-source engineering community organized around independent teams building real projects together. If you want to join, you can **[apply here](https://github.com/0ctacity/membership)**.
+[Octacity](https://github.com/octacity-org) is an open-source engineering community organized around independent teams building real projects together. If you want to join, you can **[apply here](https://github.com/octacity-org/membership)**.
 
 | Project                                                                    | What it is                                                                                                            |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **[fcage](https://github.com/0ctacity/fcage)**                             | Cross-platform process sandbox for controlling filesystem, execution, and network access without requiring a full VM. |
-| **[Badbox](https://github.com/0ctacity/badbox)**                           | Static bad-pattern detector for codebases, designed to catch structurally valid but undesirable patterns.             |
-| **[codebase-memory-mcp](https://github.com/0ctacity/codebase-memory-mcp)** | Octacity-maintained fork of Codebase Memory MCP for persistent structural memory across software projects.            |
-| **[OmniShip](https://github.com/0ctacity/omniship)**                       | Language-agnostic release tool built around composable Check, Build, and Ship stages.                                 |
-| **[ash](https://github.com/0ctacity/ash)**                                 | Agentic shell for letting coding agents operate on remote machines securely over SSH.                                 |
-| **[Elephant](https://github.com/0ctacity/elephant)**                       | Local, agent-agnostic project memory for carrying facts, decisions, tasks, and context across coding agents.          |
+| **[fcage](https://github.com/octacity-org/fcage)**                             | Cross-platform process sandbox for controlling filesystem, execution, and network access without requiring a full VM. |
+| **[Badbox](https://github.com/octacity-org/badbox)**                           | Static bad-pattern detector for codebases, designed to catch structurally valid but undesirable patterns.             |
+| **[codebase-memory-mcp](https://github.com/octacity-org/codebase-memory-mcp)** | Octacity-maintained fork of Codebase Memory MCP for persistent structural memory across software projects.            |
+| **[OmniShip](https://github.com/octacity-org/omniship)**                       | Language-agnostic release tool built around composable Check, Build, and Ship stages.                                 |
+| **[ash](https://github.com/octacity-org/ash)**                                 | Agentic shell for letting coding agents operate on remote machines securely over SSH.                                 |
+| **[Elephant](https://github.com/octacity-org/elephant)**                       | Local, agent-agnostic project memory for carrying facts, decisions, tasks, and context across coding agents.          |
 
 ###
 
